@@ -13,13 +13,20 @@
 This project focuses on data analysis and visualization of public e-commerce data.  It includes code for data wrangling, exploratory data analysis (EDA), and a Streamlit dashboard for interactive exploration. The primary goal is to analyze the E-Commerce Public Dataset.
 
 ## Project Structure <a name="project-structure"></a>
-data-analyst-dicoding/
-├── dashboard/
-│   └── Dashboard.py  # Streamlit dashboard
-├── data/
-│   └── *.csv           # Raw CSV data files
-├── NotebookFinal.ipynb     # Data analysis notebook (English)
-└── README.md          # This documentation
+<ul>
+  <li><b>dashboard/</b>
+    <ul>
+      <li><code>Dashboard.py</code> # Streamlit dashboard</li>
+    </ul>
+  </li>
+  <li><b>data/</b>
+    <ul>
+      <li><code>*.csv</code> # Raw CSV data files</li>
+    </ul>
+  </li>
+  <li><code>NotebookFinal.ipynb</code> # Data analysis notebook (English)</li>
+  <li><code>README.md</code> # This documentation</li>
+</ul>
 ## Installation <a name="installation"></a>
 
 1.  Clone the repository:
